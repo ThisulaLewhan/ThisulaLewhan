@@ -1,15 +1,38 @@
 <h1 align="center">Hi 👋, I'm Thisula Lewhan</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **Web development**
+### 📫 How to reach me **ntlewhan@gmail.com**
 
-- 🌱 I’m currently learning **Full-stack development**
+---
 
-- 🤝 I’m looking for help with **Software Development**
+### 🎓 Education  
+**B.Sc. (Hons) in Information Technology – SLIIT**  
+Focused on software development, human-computer interaction, and web technologies  
 
-- 📫 How to reach me **ntlewhan@gmail.com**
+---
 
+### 🔎 Interests  
+- 🌐 Full-Stack Web Development  
+- 🎨 Human-Computer Interaction & UI/UX Design  
+- 🛠️ Software Engineering & Design Patterns  
+- 🤖 Artificial Intelligence(beginner)  
+- 📈 Business + Technology Integration  
 
+---
+
+### 💻 What I Do  
+- ⚡ Frontend & Backend Web Development (React, Node.js, Express)  
+- 🗄️ Database Design & Integration (SQL, MongoDB)  
+- 📝 Prototyping (Low & High Fidelity)  
+- 🔧 Version Control & Collaboration (Git/GitHub)  
+- 📅 Project Coordination & Team Collaboration  
+
+---
+
+### 🛠️ Tools & Tech  
+- **Languages:** JavaScript, Python, Java, HTML, CSS  
+- **Frameworks/Libraries:** React, Node.js, Express, TailwindCSS
+- **Tools:** Git/GitHub, Figma, Postman, VS Code  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/n.thisula/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisula._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/thisula-lewhan) 
